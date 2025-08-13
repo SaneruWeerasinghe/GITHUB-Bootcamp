@@ -6,10 +6,8 @@
 * **mtllm** – Multi-tool LLM utilities
 * **PyYAML** – YAML file parsing and configuration handling
 * **Requests** – HTTP requests and API calls
-* **Pathlib** – File system path handling
 * **Python 3.12+** – Backend runtime for Jac
 * **VS Code** – Recommended IDE
-* **Jaseci Runtime** – Required to run Jac projects locally
 
 > ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
 > ![Jac](https://img.shields.io/badge/JacLang-%23009b77.svg?logoColor=white)
