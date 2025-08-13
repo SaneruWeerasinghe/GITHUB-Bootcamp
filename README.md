@@ -14,7 +14,6 @@
 > ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
 > ![Jac](https://img.shields.io/badge/JacLang-%23009b77.svg?logoColor=white)
 > ![GitPython](https://img.shields.io/badge/GitPython-%23F05032?logo=git&logoColor=white)
-> ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white)
 > ![Gemini](https://img.shields.io/badge/Gemini_AI-%2300AEEF?logo=google&logoColor=white)
 > ![PyYAML](https://img.shields.io/badge/PyYAML-%23008BB9)
 > ![Requests](https://img.shields.io/badge/Requests-%23000000)
