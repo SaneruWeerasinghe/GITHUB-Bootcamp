@@ -17,3 +17,5 @@
 > ![Gemini](https://img.shields.io/badge/Gemini_AI-%2300AEEF?logo=google&logoColor=white)
 > ![PyYAML](https://img.shields.io/badge/PyYAML-%23008BB9)
 > ![Requests](https://img.shields.io/badge/Requests-%23000000)
+> ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+> ![Jaseci](https://img.shields.io/badge/Jaseci_Runtime-%23FF6600?logoColor=white)
